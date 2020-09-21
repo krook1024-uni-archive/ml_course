@@ -1,0 +1,21 @@
+certifi==2020.6.20
+cycler==0.10.0
+greenlet==0.4.16
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+kiwisolver==1.2.0
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1597876319132/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233721170/work
+olefile==0.46
+Pillow @ file:///tmp/build/80754af9/pillow_1594307295532/work
+pynvim==0.4.2
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376899566/work
+scipy @ file:///tmp/build/80754af9/scipy_1597686649129/work
+sip==4.19.13
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
